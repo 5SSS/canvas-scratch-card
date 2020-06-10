@@ -1,6 +1,6 @@
 {
   "name": "canvas-scratch-card",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "scratch card plugin base on Canvas,Compatible with pc and mobile",
   "main": "index.js",
   "scripts": {
