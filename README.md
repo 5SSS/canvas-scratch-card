@@ -11,6 +11,7 @@ scratchCard.init({
   r: 20, // radius default 20
   rate: 0.5, // when to call callback 0.1 - 1,
   image: 'https://xxxx.jpg', // <img> dom or url
+  fillColor: '#b22', // fillColor, when this prop set, image will not render
   callback: () => {
     alert('haha');
   },
