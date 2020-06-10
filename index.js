@@ -1,4 +1,2 @@
 'use strict';
-
-const canvasScratchCard = require('./src/canvasScratch.js');
-module.exports = canvasScratchCard;
+module.exports = require('./src/canvasScratch.js');
