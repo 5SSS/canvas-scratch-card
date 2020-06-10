@@ -22,6 +22,4 @@ scratchCard.reset();
 
 ## example
 
-<video id="video" preload="none">
-  <source id="mp4" src="./video/video.mov" type="video/mov">
-</video>
+![pc & mobile](./assets/example.gif)
