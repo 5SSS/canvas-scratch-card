@@ -1,0 +1,26 @@
+{
+  "name": "canvas-scratch-card",
+  "version": "1.0.0",
+  "description": "scratch card plugin base on Canvas,Compatible with pc and mobile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5SSS/canvas-scratch-card.git"
+  },
+  "author": "coolapt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/5SSS/canvas-scratch-card/issues"
+  },
+  "homepage": "https://github.com/5SSS/canvas-scratch-card#readme",
+  "keywords": [
+    "刮刮卡",
+    "canvas",
+    "scratch",
+    "scratch-card",
+    "card"
+  ]
+}
